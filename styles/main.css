@@ -110,7 +110,7 @@ img {
   overflow: hidden;
 }
 .welcome::after {
-  content: url("./../images/welcomeDecor.png");
+  content: url("./../images/welcomeDecored.png");
   position: absolute;
   width: 41px;
   height: 100%;
