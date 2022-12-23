@@ -108,7 +108,7 @@ img {
   margin-bottom: 11.1111111111rem;
 }
 .welcome::after {
-  content: url("../../images/welcomeDecor.png");
+  content: url("./../images/welcomeDecor.png");
   position: absolute;
   width: 40.9%;
   height: 100%;
@@ -230,7 +230,7 @@ img {
   position: relative;
 }
 .menu__item:hover::after {
-  content: url("../../images/icons/chevron-down.svg");
+  content: url("./../images/icons/chevron-down.svg");
   position: absolute;
   width: 0.5rem;
   height: 0.25rem;
@@ -381,7 +381,7 @@ img {
   background: #283036;
 }
 .tool__item:hover .tool__like:hover img {
-  content: url(../../images/icons/like-hov.svg);
+  content: url(./../images/icons/like-hov.svg);
   width: 1.5555555556rem;
   height: 1.5555555556rem;
   opacity: 100%;
@@ -589,7 +589,7 @@ img {
 }
 .users-product__wrapper::after {
   position: absolute;
-  content: url(../../images/icons/decorItem.svg);
+  content: url(./../images/icons/decorItem.svg);
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
   top: -35px;
@@ -707,7 +707,7 @@ img {
   position: relative;
 }
 .employees__image::after {
-  content: url(../../images/person-dec.png);
+  content: url(./../images/person-dec.png);
   position: absolute;
   right: -2px;
   bottom: 12px;
@@ -752,7 +752,7 @@ img {
   color: rgba(255, 255, 255, 0.9);
 }
 .employees__text::before {
-  content: url(../../images/quotes-decoration.svg);
+  content: url(./../images/quotes-decoration.svg);
   position: absolute;
   left: -50px;
   top: 78px;
